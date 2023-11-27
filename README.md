@@ -20,6 +20,7 @@ Falls ein anderes Board benutzt werden soll, müssen die Pin-Belegung geändert 
 ## Ich verwende bei dem Z-Antrieb ein Riemengetriebe (60Z - 20Z)
 Hier der Link zu meinem Entwurf:
 https://www.printables.com/de/model/528412-z-riemenantrieb-fur-tronxy-x5sa
+
 Beim originalen Z-Antrieb muss "gear_ratio: 60:20" auskommentiert oder gelöscht werden.
 
 
