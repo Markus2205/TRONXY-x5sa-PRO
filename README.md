@@ -11,8 +11,8 @@ Beim originalen Z-Antrieb muss "gear_ratio: 60:20" auskommentiert oder gelöscht
 
 Falls ein anderes Board benutzt werden soll, müssen die Pin-Belegung geändert werden.
 
-![](tronxy.jpg)
+![](Bilder/tronxy.jpg)
 
-![](tronxy2.jpg)
+![](Bilder/tronxy2.jpg)
 
-![](tronxy3.jpg)
+![](Bilder/tronxy3.jpg)
