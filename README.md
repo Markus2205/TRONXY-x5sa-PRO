@@ -14,8 +14,8 @@ Falls ein anderes Board benutzt werden soll, müssen die Pin-Belegung geändert 
 ## Umgebauter TronXY x5sa PRO
 ![](Bilder/tronxy.jpg)
 
-# Umbau auf MGN Rails
+## Umbau auf MGN Rails
 ![](Bilder/tronxy2.jpg)
 
-# Die Elektronik wurde unter den Drucker (wie beim VORON) gelegt 
+## Die Elektronik wurde unter den Drucker (wie beim VORON) gelegt 
 ![](Bilder/tronxy3.jpg)
