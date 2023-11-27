@@ -21,7 +21,7 @@ Falls ein anderes Board benutzt werden soll, müssen die Pin-Belegung geändert 
 Hier der Link zu meinem Entwurf:
 https://www.printables.com/de/model/528412-z-riemenantrieb-fur-tronxy-x5sa
 
-Beim originalen Z-Antrieb muss "gear_ratio: 60:20" auskommentiert oder gelöscht werden.
+Beim originalen Z-Antrieb muss "gear_ratio: 60:20" in der printer.cfg auskommentiert oder gelöscht werden.
 
 
 ![](Bilder/tronxy4.jpg)
