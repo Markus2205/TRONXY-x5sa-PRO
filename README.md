@@ -11,8 +11,11 @@ Beim originalen Z-Antrieb muss "gear_ratio: 60:20" auskommentiert oder gelöscht
 
 Falls ein anderes Board benutzt werden soll, müssen die Pin-Belegung geändert werden.
 
+Umgebauter TronXY x5sa PRO
 ![](Bilder/tronxy.jpg)
 
+Umbau auf MGN Rails
 ![](Bilder/tronxy2.jpg)
 
+Die Elektronik wurde unter den Drucker (wie beim VORON) gelegt 
 ![](Bilder/tronxy3.jpg)
