@@ -19,7 +19,7 @@ Falls ein anderes Board benutzt werden soll, müssen natürlich die Pin-Belegung
 ## Umbau auf MGN Rails
 ![](Bilder/tronxy2.jpg)
 
-## Die Elektronik wurde unter den Drucker (wie beim VORON) gelegt 
+## Die Elektronik wurde unter dem Drucker (wie beim VORON) eingebaut. 
 ![](Bilder/tronxy3.jpg)
 
 ## Ich verwende bei dem Z-Antrieb ein Riemengetriebe (60Z - 20Z)
