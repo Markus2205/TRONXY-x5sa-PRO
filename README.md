@@ -4,7 +4,7 @@ Der Drucker wurde auf Linear Führungen umgebaut.
 
 Druckbett 6mm feingefrästes Alu mit 750Watt/230Volt Heizmatte und Magnet FR4 oder PEI Druckplatte
 
-Die Elektronik wurde (bei beim Voron2.4) unter den Drucker verfrachtet.
+Die Elektronik wurde (ähnlich wie bei bei meinem Voron2.4) unter den Drucker verfrachtet.
 
 Druckkopf: E3D HEMERA Directdrive mit REVO - Schnellwechsel Düsen.
 
